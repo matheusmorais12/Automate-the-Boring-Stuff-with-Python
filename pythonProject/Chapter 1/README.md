@@ -8,4 +8,4 @@
    
 2. String Concatenation and Replication 
    1. 'Alice' + 'Bob' = 'AliceBob'
-   2. 
+   2. 'Alice' * 5 
