@@ -16,5 +16,9 @@ print('The seventh test: ', 500 < 42)
 print('The eighth test: ', 42 <= 42)
 print('The ninth test: ', 490 >= 42)
 
-# 3. Comparison Operators
+# 3. Booleans Operators
 
+var = (4 < 5) and (5 < 6)
+var2 = (4 < 5) and (8 < 6)
+var3 = (4 == 5) or (5 != 6)
+print(var, var2, var3)
