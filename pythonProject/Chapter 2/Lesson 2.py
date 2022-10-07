@@ -22,3 +22,42 @@ var = (4 < 5) and (5 < 6)
 var2 = (4 < 5) and (8 < 6)
 var3 = (4 == 5) or (5 != 6)
 print(var, var2, var3)
+
+# 4. If Statements
+
+print('What is your name?  ')
+x = input()
+if x == 'Alice':
+    print('Hi, Alice')
+
+# 5. Else Statements
+
+print('What is your name?  ')
+x = input()
+if x == 'Matheus':
+    print('Hi, Matheus')
+else:
+    print('Hello, stranger')
+
+# 6. Elif Statements
+
+print('What is your name?  ')
+x = input()
+print('How old are you?  ')
+age = int(input("Enter age:"))
+
+if x == 'Matheus':
+    print('Hi, Matheus')
+elif age > 25:
+    print('You are not Matheus')
+elif age <= 25:
+    print('You are Matheus')
+
+
+
+
+
+
+
+
+

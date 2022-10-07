@@ -14,7 +14,8 @@
 | \>=      | Greater than or equal to |
 
 3. boolean Operators  
-   1.The and Operator's Truth Table
+   a. The and Operator's Truth Table
+
 
 | Expression      | Evaluates to |
 |-----------------|--------------|
@@ -24,8 +25,9 @@
 | False and False | False        |
 
 
-  2.The or Operator's Truth Table 
-  
+   b. The or Operator's Truth Table 
+
+
 | Expression      | Evaluates to |
 |-----------------|--------------|
 | True and True   | True         |
@@ -33,7 +35,7 @@
 | False and True  | True         |
 | False and False | False        |
 
-  3.The not Operator's Truth Table 
+  c. The not Operator's Truth Table 
   
 | Expression | Evaluates to |
 |-----------|--------------|
@@ -51,9 +53,17 @@ condition is False:
 
 ![img_1.png](img_1.png)
 
+6. Elif Statements: The elif statement is an 'else + if' statement that always an if or another elif statement: 
 
-6. While Loop Statements: The code in a While clause will be executed as long as the while statement's condition is True: 
 
+![img_3.png](img_3.png)
+
+OBS: So, if in the first try name is different from Alice, it goes to the second try, otherwise it ends the statements. 
+
+
+7. While Loop Statements: The code in a While clause will be executed as long as the while statement's condition is True: 
+
+![img_2.png](img_2.png)
 
 
 
