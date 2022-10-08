@@ -65,10 +65,11 @@ OBS: So, if in the first try name is different from Alice, it goes to the second
 
 ![img_2.png](img_2.png)
 
+8. Break Statements: If the execution reaches a break statement, it immediately exits the while loop's clause, in code, a break statement simply contains the break keyword 
+
+![img_4.png](img_4.png)
 
 
-
-
-
+9. *Continue* Statements: Like break statements, continue statements are used inside loops. When the program execution reaches a continue statement, the program execution immediately jumps back to the start of the loop and reevaluates
 
 

@@ -53,7 +53,7 @@ elif age > 25:
     print('You are not Matheus')
 elif age <= 25:
     print('You are Matheus')
-'''
+
 # 7. While Statements
 
 name = ''
@@ -61,6 +61,14 @@ while name != 'Matheus':
     print('Please, type your name: ')
     name = str(input())
 print('Thank you')
+'''
+
+# 8. Break Statements
+while True:
+    name = str(input('Type your name: '))
+    if name == 'Matheus':
+        break
+print('Thank you!!')
 
 
 
