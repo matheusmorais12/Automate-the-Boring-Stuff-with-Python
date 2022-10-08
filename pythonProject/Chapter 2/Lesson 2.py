@@ -61,7 +61,7 @@ while name != 'Matheus':
     print('Please, type your name: ')
     name = str(input())
 print('Thank you')
-'''
+
 
 # 8. Break Statements
 while True:
@@ -72,10 +72,34 @@ print('Thank you!!')
 
 
 
+# 9. Continue Statements
 
+while True:
+    name = str(input("Who are you? "))
+    if name != 'Matheus':
+        continue
+    password = str(input('Hello Matheus, What is your password? '))
+    if password == 'matheus123':
+        break
+print('Acess Granted')
 
+# 10. For Statements
 
+print('My name is: ')
+for i in range(5):
+    print('Matheus Five Times ('+str(i+1)+')')
+'''
 
+# 11. Import Statements
 
+import random
+import sys
+for i in range(5):
+    print(random.randint(1, 10))
 
+while True:
+    response = str(input('Type exit to exit '))
+    if response == 'exit':
+        sys.exit()
+    print('You typed ' + response + '.')
 
