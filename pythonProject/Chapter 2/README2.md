@@ -46,37 +46,37 @@
 execute if the statement’s condition is True. The clause is skipped if the
 condition is False.
 
-![img.png](img.png)
+![img.png](Photos/img.png)
 
 
 5. *Else* Statements: The else clause is executed only when the ''if'' statement's condition is False. So, (if this condition is true execute this code. Or else, execute that code).
 
-![img_1.png](img_1.png)
+![img_1.png](Photos/img_1.png)
 
 6. *Elif* Statements: The elif statement is an 'else + if' statement that always an if or another elif statement. 
 
 
-![img_3.png](img_3.png)
+![img_3.png](Photos/img_3.png)
 
 OBS: So, if in the first try name is different from Alice, it goes to the second try, otherwise it ends the statements. 
 
 
 7. *While* Loop Statements: The code in a While clause will be executed as long as the while statement's condition is True.
 
-![img_2.png](img_2.png)
+![img_2.png](Photos/img_2.png)
 
 8. *Break* Statements: If the execution reaches a break statement, it immediately exits the while loop's clause, in code, a break statement simply contains the break keyword.
 
-![img_4.png](img_4.png)
+![img_4.png](Photos/img_4.png)
 
 
 9. *Continue* Statements: Like break statements, continue statements are used inside loops. When the program execution reaches a continue statement, the program execution immediately jumps back to the start of the loop and reevaluates.
 
-![img_5.png](img_5.png)
+![img_5.png](Photos/img_5.png)
 
 10. *for* Loops and the range() Function: we can execute a block certain number of times.
 
-![img_6.png](img_6.png)
+![img_6.png](Photos/img_6.png)
 
    a. range(): 
 
