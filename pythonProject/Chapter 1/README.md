@@ -1,4 +1,4 @@
-# Lesson 1  
+# Chapter 1  
 
 1. The Integer, Floating-Point and String Data Types 
    1. Integers: -2,-1,0,1,2,4...

@@ -1,4 +1,4 @@
-# Lesson 2 - Flow Control 
+# Chapter 2 - Flow Control 
 
 1. Boolean Values 
    1. spam = True / spam = False
